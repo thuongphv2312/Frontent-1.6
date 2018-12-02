@@ -12,7 +12,7 @@ Yêu cầu:
 - images
 ## Thực hiện bởi [Phạm Văn Thượng](https://github.com/thuongphv2312)
 ## Giao diện
-[Trang document]( https://thuongphv2312.github.io/Frontent-1.6)
+[Trang document]( https://thuongphv2312.github.io/Frontent-1.6/index.html)
 -[ảnh](https://thuongphv2312.github.io/Frontent-1.6/img.png)
 ## Kiến thức nắm được
 
