@@ -46,6 +46,9 @@ content{
 .header-center span{
 	font-size: 30px;
 }
+.title span{
+	font-size: 30px;
+}
 span{
 	font-weight: bold;
 }
