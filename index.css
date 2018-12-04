@@ -46,6 +46,12 @@ content{
 .header-center span{
 	font-size: 30px;
 }
+span{
+	font-weight: bold;
+}
+.time-color{
+	color: #4a4a4a;
+}
 h2{
 	margin: 0;
 }
@@ -102,7 +108,7 @@ h2{
 .paragrap{
 	padding-bottom: 20px;
 	margin: 20px;
-	border-bottom: 1px solid;
+	border-bottom: 1px solid #d6d6d6;
 }
 .paragrap span{
 	display: block;
@@ -111,4 +117,16 @@ h2{
 }
 .paragrap p{
 	font-size: 30px;
+}
+.set-like{
+	float: right;
+	line-height: 26px;
+	margin-right: 10px;
+}
+.property-flex{
+	display: flex;
+	flex-direction: column;
+}
+fa-heart{
+	float: right;
 }
