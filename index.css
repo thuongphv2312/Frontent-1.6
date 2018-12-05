@@ -55,7 +55,7 @@ span{
 .time-color{
 	color: #4a4a4a;
 	font-size: 24px;
-	margin:0;
+	margin:10px 0;
 }
 h2{
 	margin: 0;
@@ -134,4 +134,8 @@ h2{
 }
 .fa-heart{
 	float: right;
+}
+.fa-ellipsis-h{
+	float: right;
+	margin-left: 30px;
 }
